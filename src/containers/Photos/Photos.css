@@ -1,0 +1,9 @@
+.Photos {
+    width: 80%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.Photos .main {
+    /* padding-top: 50px; */
+}

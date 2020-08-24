@@ -1,0 +1,74 @@
+
+.Homee {
+  width: 80%;
+  margin: auto;
+  margin-bottom: 50px;
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .display-4 {
+      margin-top: 50px;
+  }
+}
+
+
+.Homee .section-with-bg {
+  background-color: #f6f7fd;
+}
+
+.Homee a {
+  color: #f82249;
+  transition: 0.5s;
+}
+
+.Homee a:hover, a:active, a:focus {
+  color: #f8234a;
+  outline: none;
+  text-decoration: none;
+}
+
+.Homee p {
+  padding: 0;
+  margin: 0 0 30px 0;
+}
+
+.Homee h1, h2, h3, h4, h5 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  margin: 0 0 20px 0;
+  padding: 0;
+  color: #0e1b4d;
+}
+
+.Homee section {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.Homee .image {
+	max-width: 100%;
+}
+
+.Homee .bg-boston {
+    background: url("../../assets/images/bg-home.jpg");
+    background-size: cover;
+}
+
+.Homee .h-80vh {
+    height: 80vh;
+}
+
+.Homee h1, h2, .navbar-brand {
+  font-weight: bold !important; 
+  color: #1056B1;
+
+}
+
+.Homee h1 {
+  color: #1056B1;
+}
+
+.lead {
+  text-shadow: 2px 2px 10px #000000;
+}
+
